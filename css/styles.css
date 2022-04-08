@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+	font-family: 'Roboto', sans-serif;
+	background-image: url(https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg);
+}
+
+h1 {
+	text-align: center;
+	font-size: 400%;
+	font-family: 'Roboto Condensed', sans-serif;;
+}
+
+h2 {
+	font-family: 400%;
+	text-align: center;
+	font-family: 'Roboto Condensed', sans-serif;;
+}
+
+.contenido {
+	margin-left: 5%;
+	margin-right: 5%; 
+}
+
+.encabezado {
+	text-align: center;
+}
+
+.presentacion {
+
+}
+
+.inicios {
+	
+}
+
+.informacion {
+	display: inline-block;
+	width: 70%;
+	height: auto;
+}
+
+.informacion_centrada{
+
+}
+
+.imagen_derecha {
+	float: right;
+	text-align: right;
+	width: 30%;
+}
+
+.imagen_izquierda {
+	float: left;
+	text-align: left;
+	width: 30%;
+}
+
+div p {
+	text-align: justify;
+	padding: 2%;
+	font-size: 110%;
+}
